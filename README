@@ -4,3 +4,9 @@ C beginner programs
 1. swap 2 numbers using 3 variables 
 2. swap 2 variables using 2 variables
 3. sum of series 1 (1+2+3+.....+n)
+4. menu driven program of:
+   -factorial of a number
+   -prime number
+   -even and oddsum of digits of a number
+   -power of a number
+   -armstrong number
